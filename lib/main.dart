@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:luckcam/camera_screen.dart';
+import 'package:luckcam/pages/camera_screen.dart';
 import 'package:wakelock_plus/wakelock_plus.dart';
 
 Future<void> main() async {
