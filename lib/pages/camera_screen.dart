@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_webrtc/flutter_webrtc.dart';
-import 'package:luckcam/camera_service.dart';
-import 'package:luckcam/webrtc_service.dart';
+import 'package:luckcam/services/camera_service.dart';
+import 'package:luckcam/services/webrtc_service.dart';
 
 class CameraScreen extends StatefulWidget {
   const CameraScreen({super.key});
